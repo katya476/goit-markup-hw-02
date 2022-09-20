@@ -1,0 +1,38 @@
+.body{
+   font-family:"Roboto";
+  
+
+}
+.pages{
+color:#212121;
+}
+.pages:hover{
+    color: #2196F3;
+}
+.contacts{
+    color: #757575;
+}
+.contacts:hover{
+    color: #2196F3;
+}
+
+ .hero{
+    background-color:#2F303A ;
+ }
+ .hero-title{
+    color:#FFFFFF;
+ }
+ .section.section-title{
+    color: #212121;
+ }
+ .paragraf{
+    color:#757575;
+ }
+ .footer{
+   background-color: #2F303A
+   ;
+ }
+ .section-team{
+   background-color:#F5F4FA; ;
+ }
+   
